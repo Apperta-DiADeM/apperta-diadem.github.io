@@ -11,7 +11,7 @@ email: info@code4health.org
 description: > # this means to ignore newlines until "baseurl:"
   DiADeM has been developed by the Yorkshire & Humber Dementia Clinical Network with input from a range of stakeholders including experts in the field of Dementia from across the health spectrum
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://appertafoundation.github.io/diademwebsite" # the base hostname & protocol for your site
+url: "https://diadem.apperta.org" # the base hostname & protocol for your site
 twitter_username: diadem_app
 github_username:  Apperta
 
